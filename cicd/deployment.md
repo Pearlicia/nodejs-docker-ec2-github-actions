@@ -3,7 +3,7 @@
 1. Create the dockerfile
 2. Write the cicd pipeline
 3. Create Dockerhub Account. Add docker hub username and password to github secrets
-4. Create an EC2 instance - Use linux image
+4. Create an EC2 instance - Use ubuntu image - install docker
 5. Create a self hosted runner
 
 
